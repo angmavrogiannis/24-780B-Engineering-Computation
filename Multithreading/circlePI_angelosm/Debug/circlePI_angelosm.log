@@ -1,0 +1,14 @@
+﻿  circlePI_angelosm.cpp
+c:\users\aggelos\source\repos\circlepi_angelosm\circlepi_angelosm\circlepi_angelosm.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\circlepi_angelosm\circlepi_angelosm\circlepi_angelosm.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\circlepi_angelosm\circlepi_angelosm\circlepi_angelosm.cpp(94): warning C4244: 'argument': conversion from '_Ty' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+c:\users\aggelos\source\repos\circlepi_angelosm\circlepi_angelosm\circlepi_angelosm.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  circlePI_angelosm.vcxproj -> C:\Users\Aggelos\source\repos\circlePI_angelosm\Debug\circlePI_angelosm.exe

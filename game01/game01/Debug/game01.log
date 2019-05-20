@@ -1,0 +1,7 @@
+﻿  game01.cpp
+c:\users\aggelos\source\repos\game01\game01\game01.cpp(21): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\game01\game01\game01.cpp(22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\game01\game01\game01.cpp(23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\game01\game01\game01.cpp(24): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\game01\game01\game01.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game01.vcxproj -> C:\Users\Aggelos\source\repos\game01\Debug\game01.exe
