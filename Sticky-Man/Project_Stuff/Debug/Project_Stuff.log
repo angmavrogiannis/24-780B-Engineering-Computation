@@ -1,239 +1,325 @@
-﻿  player.cpp
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.h(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(78): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(80): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(81): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(83): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(84): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(86): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(87): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(89): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(90): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(93): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(94): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(96): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(97): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(99): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(100): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(108): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(114): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(116): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(117): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(119): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(120): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(122): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(123): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(125): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(126): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(128): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(129): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(131): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(132): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(134): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(135): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(137): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(138): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(140): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(141): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(146): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(107): warning C4101: 'newYOrigin': unreferenced local variable
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(176): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(339): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(340): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(442): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(486): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(487): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(488): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(489): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(498): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(499): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(500): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(501): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(510): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(512): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(516): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(518): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(600): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(601): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(602): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(603): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(604): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(605): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(606): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(607): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(608): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(609): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(610): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(611): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(643): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(649): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(656): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(664): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(672): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(685): warning C4305: 'argument': truncation from 'int' to 'GLubyte'
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(685): warning C4309: 'argument': truncation of constant value
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(688): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(689): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(690): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(691): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(695): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(706): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(712): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(713): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(715): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(726): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(727): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(730): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(731): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(732): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(739): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(746): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(747): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(750): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(751): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(754): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(755): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(760): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(766): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(767): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(770): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(771): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(773): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(774): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(776): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(777): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(779): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(780): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(784): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(812): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(813): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(815): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(826): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(827): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(830): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(831): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(832): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(839): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(846): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(847): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(850): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(851): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(854): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(855): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(860): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(866): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(867): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(870): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(871): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(873): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(874): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(876): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(877): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(879): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(880): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(884): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(921): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(927): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(931): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(932): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(935): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(936): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(941): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(942): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(945): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(946): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(949): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(950): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(953): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(954): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(958): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(968): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(969): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(977): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(978): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(980): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(982): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(990): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(998): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1004): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1008): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1009): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1012): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1013): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1018): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1019): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1022): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1023): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1026): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1027): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1030): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1031): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1035): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1045): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1046): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1054): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1055): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1057): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1059): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1067): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1078): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1083): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1087): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1088): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1091): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1092): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1097): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1098): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1101): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1102): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1104): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1105): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1107): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1108): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1110): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1113): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1114): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1118): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1129): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1140): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1142): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1150): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1162): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1166): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1167): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1170): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1171): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1176): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1177): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1180): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1181): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1183): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1184): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1186): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1187): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1189): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1190): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1192): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1193): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1197): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1207): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1208): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1219): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1221): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1229): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1255): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1256): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-c:\users\aggelos\source\repos\project_stuff\project_stuff\player.cpp(1332): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  Project_Stuff.vcxproj -> C:\Users\Aggelos\source\repos\Project_Stuff\Debug\Project_Stuff.exe
+﻿  environment.cpp
+  fssimplewindow.cpp
+  menu.cpp
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(49): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(53): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(58): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(65): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(69): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(102): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(104): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(108): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(112): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(163): warning C4101: 'name': unreferenced local variable
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(232): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(236): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(240): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(244): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(248): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(252): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(256): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(260): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(264): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(268): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(272): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(276): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(289): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(293): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(297): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(301): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(305): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(309): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(313): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(317): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(321): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(325): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\menu.cpp(329): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  player.cpp
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.h(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(78): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(80): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(81): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(83): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(84): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(86): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(87): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(89): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(90): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(93): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(94): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(96): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(97): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(99): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(100): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(108): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(114): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(116): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(117): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(119): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(120): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(122): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(123): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(125): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(126): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(128): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(129): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(131): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(132): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(134): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(135): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(137): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(138): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(140): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(141): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(146): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(107): warning C4101: 'newYOrigin': unreferenced local variable
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(176): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(339): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(340): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(442): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(486): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(487): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(488): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(489): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(498): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(499): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(500): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(501): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(510): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(512): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(516): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(518): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(600): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(601): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(602): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(603): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(604): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(605): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(606): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(607): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(608): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(609): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(610): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(611): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(643): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(649): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(656): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(664): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(672): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(685): warning C4305: 'argument': truncation from 'int' to 'GLubyte'
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(685): warning C4309: 'argument': truncation of constant value
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(688): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(689): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(690): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(691): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(695): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(706): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(712): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(713): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(715): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(726): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(727): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(730): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(731): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(732): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(739): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(746): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(747): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(750): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(751): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(754): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(755): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(760): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(766): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(767): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(770): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(771): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(773): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(774): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(776): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(777): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(779): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(780): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(784): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(812): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(813): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(815): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(826): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(827): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(830): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(831): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(832): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(839): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(846): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(847): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(850): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(851): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(854): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(855): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(860): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(866): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(867): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(870): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(871): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(873): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(874): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(876): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(877): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(879): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(880): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(884): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(921): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(927): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(931): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(932): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(935): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(936): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(941): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(942): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(945): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(946): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(949): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(950): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(953): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(954): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(958): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(968): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(969): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(977): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(978): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(980): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(982): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(990): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(998): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1004): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1008): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1009): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1012): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1013): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1018): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1019): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1022): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1023): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1026): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1027): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1030): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1031): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1035): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1045): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1046): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1054): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1055): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1057): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1059): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1067): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1078): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1083): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1087): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1088): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1091): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1092): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1097): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1098): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1101): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1102): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1104): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1105): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1107): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1108): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1110): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1111): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1113): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1114): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1118): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1129): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1140): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1142): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1150): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1162): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1166): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1167): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1170): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1171): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1176): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1177): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1180): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1181): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1183): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1184): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1186): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1187): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1189): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1190): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1192): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1193): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1197): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1207): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1208): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1219): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1221): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1229): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1255): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1256): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.cpp(1332): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Project_Stuff.cpp
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\player.h(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(633): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(634): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(635): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(636): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(653): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(654): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(655): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(656): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(672): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1231): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1232): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1233): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1234): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1253): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1254): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1255): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\project_stuff.cpp(1256): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  yspng.cpp
+  yssimplesound.cpp
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(101): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(114): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(461): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(496): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(521): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(545): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(559): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(701): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(708): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(732): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(739): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(941): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(954): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\yssimplesound.cpp(1053): warning C4018: '<': signed/unsigned mismatch
+  yssimplesound_dsound.cpp
+  Generating Code...
+  ysglfontdata.c
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17140): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17150): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17389): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17393): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17397): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17417): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17427): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17446): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17519): warning C4018: '<': signed/unsigned mismatch
+c:\users\aggelos\source\repos\git folder\sticky-man\project_stuff\ysglfontdata.c(17536): warning C4018: '<': signed/unsigned mismatch
+  Project_Stuff.vcxproj -> C:\Users\Aggelos\source\repos\Git Folder\Sticky-Man\Debug\Project_Stuff.exe

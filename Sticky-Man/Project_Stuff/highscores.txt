@@ -11,3 +11,5 @@ nick 0
  0
  0
  0
+angelos 0
+nestor 0
